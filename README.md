@@ -1,4 +1,4 @@
-# 🎰 Casino Core Logic
+# 🎰 Casino Game Core Logic
 
 This project showcases the core logic behind a simple casino game. It’s designed as a reference implementation for learning and extending core casino functionality.
 
